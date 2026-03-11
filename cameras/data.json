@@ -1,0 +1,107 @@
+[
+  {
+    "id": "tokyo-station-01",
+    "title": "Tokyo Station Live Camera",
+    "coordinate": [35.677571, 139.766487],
+    "heading": 240,
+    "url": "https://www.youtube.com/watch?v=nI1pAF9Dbp4"
+  },
+  {
+    "id": "hakata-station-01",
+    "title": "Hakata Station Live Camera",
+    "coordinate": [33.592758, 130.42141],
+    "heading": 200,
+    "url": "https://www.youtube.com/watch?v=mxA6Kd1pFkA"
+  },
+  {
+    "id": "tokyo-marunouchi-01",
+    "title": "Tokyo Marunouchi Live Camera",
+    "coordinate": [35.667986, 139.758668],
+    "heading": 190,
+    "url": "https://www.youtube.com/watch?v=LiGYF-f9eDY"
+  },
+  {
+    "id": "tokyo-north-01",
+    "title": "North Tokyo Live Camera",
+    "coordinate": [35.739209, 139.759115],
+    "heading": 20,
+    "url": "https://www.youtube.com/watch?v=tpqm6t978VY"
+  },
+  {
+    "id": "hakata-south-01",
+    "title": "South Hakata Live Camera",
+    "coordinate": [33.581854, 130.420256],
+    "heading": 30,
+    "url": "https://www.youtube.com/watch?v=zN_doUio4Ho"
+  },
+  {
+    "id": "kanazawa-01",
+    "title": "Kanazawa Live Camera",
+    "coordinate": [36.581781, 136.651587],
+    "heading": 230,
+    "url": "https://www.youtube.com/watch?v=81-mJdCDK7M"
+  },
+  {
+    "id": "nagoya-01",
+    "title": "Nagoya Live Camera",
+    "coordinate": [35.163898, 136.884817],
+    "heading": 340,
+    "url": "https://www.youtube.com/watch?v=X304dz1zrfU"
+  },
+  {
+    "id": "koriyama-01",
+    "title": "Koriyama Live Camera",
+    "coordinate": [37.376173, 140.383129],
+    "heading": 220,
+    "url": "https://www.youtube.com/watch?v=sgrAfWdVa0E"
+  },
+  {
+    "id": "tokyo-station-02",
+    "title": "Tokyo Station East Live Camera",
+    "coordinate": [35.679192, 139.765548],
+    "heading": 40,
+    "url": "https://www.youtube.com/watch?v=pSbSFobr_7o"
+  },
+  {
+    "id": "odawara-01",
+    "title": "Odawara Live Camera",
+    "coordinate": [35.257098, 139.154816],
+    "heading": 40,
+    "url": "https://www.youtube.com/watch?v=YrnhU_CmATs"
+  },
+  {
+    "id": "tokyo-yaesu-01",
+    "title": "Tokyo Yaesu Live Camera",
+    "coordinate": [35.659559, 139.758831],
+    "heading": 190,
+    "url": "https://www.youtube.com/watch?v=W0V8-6WrgBY"
+  },
+  {
+    "id": "ikebukuro-01",
+    "title": "Ikebukuro Live Camera",
+    "coordinate": [35.779358, 139.719321],
+    "heading": 360,
+    "url": "https://www.youtube.com/watch?v=w_5S1jpGAQ8"
+  },
+  {
+    "id": "shin-osaka-01",
+    "title": "Shin-Osaka Live Camera",
+    "coordinate": [34.735399, 135.504086],
+    "heading": 230,
+    "url": "https://www.youtube.com/watch?v=Bq30kRKn3eA"
+  },
+  {
+    "id": "shinagawa-01",
+    "title": "Shinagawa Live Camera",
+    "coordinate": [35.610285, 139.728388],
+    "heading": 220,
+    "url": "https://www.youtube.com/watch?v=43gjh1CykrQ"
+  },
+  {
+    "id": "ueno-01",
+    "title": "Ueno Live Camera",
+    "coordinate": [35.729558, 139.768623],
+    "heading": 120,
+    "url": "https://www.youtube.com/watch?v=g9zJEBg55Do"
+  }
+]

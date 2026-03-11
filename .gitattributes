@@ -1,0 +1,5 @@
+# Mark generated/large data files so they don't inflate diffs
+src/data/shinkansen-train-animations.json linguist-generated=true
+src/data/shinkansen-timetables.json linguist-generated=true
+src/data/live-cameras.json linguist-generated=true
+timetable/data.json linguist-generated=true
