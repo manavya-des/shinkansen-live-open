@@ -144,6 +144,11 @@ Outputs `src/data/shinkansen-train-animations.json` and copies the timetable to 
 
 [MIT](LICENSE)
 
+## Project Notes
+
+- Third-party providers and asset notes: [THIRD_PARTY.md](THIRD_PARTY.md)
+- Privacy and telemetry note: [PRIVACY.md](PRIVACY.md)
+
 ## Credits
 
 - Track geometry from [OpenStreetMap](https://www.openstreetmap.org/) via Overpass API
